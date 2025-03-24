@@ -1,0 +1,231 @@
+User_ID,Area_code,Location,Gender,YOB,Marital_Status,Activity,Budget,Cuisines,Alcohol,Smoker,Food_Rating,Service_Rating,Overall_Rating,Often_A_S
+1.0,153.0,Vegueta,Female,2006.0,Single,Professional,3.0,Japanese,Never,Never,5.0,4.0,4.5,FALSE
+2.0,123.0,Siete Palmas,Female,1991.0,Married,Student,3.0,Indian,Never,Socially,1.0,1.0,1.0,No
+3.0,,Siete Palmas,Male,1977.0,Single,Student,5.0,Seafood,Often,Often,,5.0,5.0,TRUE
+4.0,153.0,Mesa y López,Female,1956.0,Married,Professional,5.0,Japanese,never,Socially,3.0,1.0,2.0,FALSE
+4.0,153.0,Mesa y López,Female,1956.0,Married,Professional,5.0,Japanese,never,Socially,3.0,1.0,2.0,FALSE
+5.0,129.0,Vegueta,Male,1997.0,Single,Studying,4.0,Filipino,Socially,Never,2.0,4.0,3.0,FALSE
+6.0,111.0,Tamaraceite,male,1995.0,Single,Student,5.0,Seafood,Never,never,5.0,1.0,3.0,No
+7.0,111.0,,Female,1977.0,married,Professional,5.0,Indian,Often,socially,1.0,4.0,2.5,FALSE
+8.0,153.0,Tamaraceite,Female,,Single,Professional,3.0,Filipino,frequently,Often,5.0,2.0,,Yes
+9.0,107.0,Siete Palmas,Male,1965.0,Single,Student,5.0,Italian,Socially,Socially,3.0,3.0,3.0,FALSE
+10.0,129.0,Triana,Male,1995.0,Single,Student,4.0,Chinese,Often,frequently,5.0,2.0,3.5,Yes
+11.0,123.0,Mesa y López,Female,1975.0,Married,Professional,4.0,French,Never,Often,3.0,2.0,2.5,No
+12.0,123.0,Mesa y López,Male,1963.0,Married,Student,4.0,Chinese,Never,Socially,3.0,1.0,2.0,No
+13.0,123.0,Mesa y López,Female,2006.0,Single,Professional,5.0,Chinese,social,never,5.0,5.0,5.0,No
+14.0,107.0,Mesa y López,Male,1980.0,Single,Student,5.0,Italian,Often,Socially,5.0,2.0,3.5,No
+15.0,107.0,Triana,Male,1956.0,Married,Student,3.0,Filipino,Often,Never,1.0,1.0,1.0,FALSE
+16.0,153.0,Tamaraceite,Female,1956.0,Married,Student,3.0,French,Often,Never,4.0,1.0,2.5,FALSE
+17.0,107.0,Mesa y López,Male,2007.0,Single,Student,5.0,Seafood,Socially,Never,2.0,1.0,1.5,FALSE
+18.0,153.0,Vegueta,Male,2004.0,single,Student,3.0,Japanese,Often,Often,1.0,5.0,3.0,TRUE
+19.0,129.0,Triana,Male,2001.0,Single,Student,,Filipino,Socially,Socially,3.0,5.0,4.0,FALSE
+20.0,129.0,Vegueta,Male,1959.0,Married,Student,4.0,Seafood,Often,Never,3.0,1.0,2.0,No
+21.0,123.0,Vegueta,Female,2009.0,Single,Student,3.0,Indian,Socially,Often,5.0,3.0,,No
+22.0,153.0,Mesa y López,Female,1983.0,Married,Professional,5.0,Italian,Socially,Never,1.0,4.0,2.5,No
+23.0,107.0,Triana,girl,1971.0,,Professional,5.0,Chinese,Never,Often,,2.0,3.0,No
+24.0,154.0,Mesa y López,Male,1974.0,Divorced,Professional,1.0,Seafood,Socially,Often,5.0,5.0,5.0,No
+25.0,129.0,Vegueta,Male,1963.0,Single,Professional,3.0,Indian,Socially,Socially,2.0,5.0,,No
+26.0,123.0,Triana,Male,1969.0,Single,professional,3.0,Sushi,Never,Socially,4.0,3.0,3.5,No
+26.0,123.0,Triana,Male,1969.0,Single,professional,3.0,Sushi,Never,Socially,4.0,3.0,3.5,No
+27.0,129.0,Triana,Female,2001.0,Single,Student,3.0,Indian,Never,Socially,2.0,3.0,2.5,No
+28.0,111.0,Vegueta,Male,,Single,Student,5.0,Indian,Never,Never,1.0,5.0,3.0,FALSE
+29.0,154.0,Mesa y López,Female,1977.0,married,Studying,4.0,French,Socially,Never,2.0,1.0,1.5,FALSE
+30.0,154.0,Mesa y López,Female,1988.0,Married,Student,5.0,Seafood,never,Socially,4.0,4.0,4.0,FALSE
+31.0,107.0,Tamaraceite,Female,1999.0,Married,Student,4.0,Chinese,Never,Socially,3.0,2.0,2.5,No
+32.0,154.0,Triana,Male,1971.0,Married,Student,1.0,Indian,Never,Often,4.0,2.0,3.0,FALSE
+33.0,122.0,Vegueta,boy,1995.0,single,Professional,3.0,Indian,Often,Never,3.0,2.0,2.5,FALSE
+34.0,129.0,Siete Palmas,Female,2009.0,Single,Professional,5.0,Indian,Socially,Socially,1.0,5.0,,FALSE
+35.0,129.0,Mesa y López,Male,2001.0,Divorced,Student,1.0,Japanese,Socially,Often,5.0,5.0,5.0,No
+36.0,107.0,Triana,Male,1998.0,Single,Professional,5.0,Japanese,Never,Socially,1.0,3.0,2.0,No
+37.0,154.0,Mesa y López,Male,2006.0,Single,Student,4.0,Japanese,Often,Often,5.0,2.0,3.5,Yes
+38.0,123.0,Triana,Female,1990.0,Single,Student,5.0,French,Never,Never,3.0,2.0,2.5,No
+41.0,129.0,Vegueta,Male,2001.0,Single,Student,2.0,Seafood,Often,Never,2.0,2.0,2.0,FALSE
+41.0,129.0,Vegueta,Male,2001.0,Single,Student,2.0,Seafood,Often,Never,2.0,2.0,2.0,FALSE
+42.0,154.0,Vegueta,Female,1967.0,Single,Student,5.0,Filipino,Often,Socially,5.0,5.0,5.0,FALSE
+42.0,154.0,Vegueta,Female,1967.0,Single,Student,5.0,Filipino,Often,Socially,5.0,5.0,5.0,FALSE
+43.0,123.0,Siete Palmas,Male,1985.0,Married,Student,5.0,Japanese,Never,Never,3.0,1.0,2.0,No
+44.0,129.0,Mesa y López,Male,2000.0,Single,Student,3.0,French,Never,,4.0,1.0,2.5,No
+45.0,123.0,Triana,Female,1969.0,Married,,3.0,Italian,Often,Never,4.0,1.0,2.5,No
+46.0,111.0,Siete Palmas,Male,1976.0,Married,Student,3.0,Chinese,Never,Never,2.0,5.0,3.5,No
+47.0,129.0,Triana,Male,1976.0,Single,Professional,3.0,French,Often,Socially,5.0,3.0,4.0,FALSE
+47.0,129.0,Triana,Male,1976.0,Single,Professional,3.0,French,Often,Socially,5.0,3.0,4.0,FALSE
+48.0,,Tamaraceite,Female,1987.0,Married,Professional,3.0,Seafood,Never,Socially,1.0,5.0,3.0,FALSE
+49.0,111.0,Vegueta,Male,1998.0,Single,Studying,3.0,Seafood,Never,Socially,,2.0,1.5,No
+50.0,107.0,Triana,Female,1974.0,Married,Student,5.0,Japanese,Socially,Socially,2.0,5.0,3.5,FALSE
+51.0,107.0,Siete Palmas,Female,2007.0,Single,Student,4.0,Japanese,Often,Often,5.0,5.0,5.0,Yes
+52.0,153.0,Triana,Female,2005.0,Single,Student,3.0,Chinese,Often,Socially,3.0,2.0,2.5,FALSE
+52.0,153.0,Triana,Female,2005.0,Single,Student,3.0,Chinese,Often,Socially,3.0,2.0,2.5,FALSE
+53.0,153.0,Triana,Female,1974.0,Single,Professional,4.0,Chinese,Never,Often,3.0,5.0,4.0,No
+54.0,123.0,Tamaraceite,Male,1989.0,single,Professional,5.0,Filipino,Socially,Often,4.0,4.0,4.0,No
+55.0,107.0,Triana,Female,1958.0,single,Professional,5.0,Filipino,Socially,Socially,5.0,3.0,4.0,FALSE
+56.0,122.0,Triana,Female,1991.0,single,Professional,4.0,Filipino,Often,Socially,3.0,1.0,2.0,No
+57.0,123.0,Tamaraceite,Female,1981.0,Divorced,Student,2.0,Italian,Socially,Often,5.0,5.0,5.0,No
+58.0,129.0,Siete Palmas,Male,1962.0,Married,Professional,3.0,Filipino,Never,never,3.0,4.0,3.5,No
+59.0,123.0,Triana,boy,1964.0,Single,Student,5.0,Japanese,Never,Socially,4.0,2.0,3.0,No
+59.0,123.0,Triana,boy,1964.0,Single,Student,5.0,Japanese,Never,Socially,4.0,2.0,3.0,No
+60.0,122.0,Vegueta,Male,1959.0,Married,Professional,5.0,Italian,Socially,Socially,2.0,2.0,2.0,FALSE
+61.0,129.0,Tamaraceite,female,2003.0,Single,Student,4.0,Japanese,Never,Never,4.0,3.0,3.5,FALSE
+62.0,122.0,Triana,Female,1955.0,divorced,Professional,4.0,Japanese,Never,,,5.0,5.0,No
+63.0,123.0,Vegueta,Male,2002.0,single,Student,4.0,Japanese,never,Often,5.0,5.0,5.0,No
+64.0,153.0,Siete Palmas,Female,1989.0,Married,Student,5.0,Italian,Never,Socially,1.0,1.0,1.0,FALSE
+65.0,129.0,Siete Palmas,Female,1996.0,Single,Student,4.0,Italian,Never,,5.0,5.0,5.0,No
+66.0,107.0,Triana,Male,1975.0,Married,Student,4.0,French,Socially,Often,2.0,5.0,3.5,No
+67.0,111.0,Triana,Male,2009.0,Single,Student,3.0,Seafood,Socially,Never,3.0,3.0,3.0,No
+68.0,154.0,,Male,2000.0,Married,Professional,3.0,Indian,Never,Often,5.0,2.0,3.5,No
+69.0,111.0,Mesa y López,Male,1961.0,Married,Student,4.0,French,never,Socially,3.0,3.0,3.0,No
+70.0,107.0,Mesa y López,Female,1998.0,single,Student,1.0,Italian,Never,Often,2.0,5.0,3.5,No
+71.0,154.0,Vegueta,Male,1957.0,Married,Student,5.0,,Socially,Often,4.0,4.0,4.0,FALSE
+71.0,154.0,Vegueta,Male,1957.0,Married,Student,5.0,,Socially,Often,4.0,4.0,4.0,FALSE
+72.0,123.0,Siete Palmas,Male,2006.0,Single,student,5.0,Filipino,Socially,Never,1.0,2.0,1.5,FALSE
+73.0,123.0,Mesa y López,Male,1962.0,married,Professional,4.0,Indian,Never,Never,1.0,1.0,1.0,FALSE
+74.0,153.0,Siete Palmas,Male,1994.0,Married,Student,3.0,Indian,Often,socially,1.0,5.0,3.0,No
+75.0,123.0,Tamaraceite,Male,2002.0,Single,student,3.0,Filipino,Never,Never,3.0,4.0,3.5,No
+76.0,154.0,Vegueta,Male,1955.0,Married,Professional,3.0,Indian,Never,socially,2.0,3.0,2.5,No
+77.0,129.0,Mesa y López,Male,1974.0,Single,Working,3.0,Filipino,Socially,Never,2.0,5.0,3.5,No
+78.0,153.0,Vegueta,Male,1979.0,Single,Student,5.0,Chinese,social,Never,5.0,1.0,3.0,FALSE
+79.0,111.0,Tamaraceite,male,1965.0,Married,Professional,3.0,Seafood,Often,Often,5.0,5.0,5.0,TRUE
+80.0,111.0,Siete Palmas,Female,1998.0,single,Student,1.0,Filipino,Often,Socially,1.0,5.0,3.0,No
+81.0,154.0,Mesa y López,Female,1974.0,Married,Professional,4.0,French,Never,Socially,4.0,4.0,4.0,No
+82.0,153.0,Tamaraceite,Male,1964.0,Married,Professional,4.0,Chinese,Often,Socially,3.0,5.0,4.0,No
+83.0,122.0,Triana,boy,1996.0,Married,Student,4.0,French,Often,socially,2.0,4.0,3.0,No
+83.0,122.0,Triana,boy,1996.0,Married,Student,4.0,French,Often,socially,2.0,4.0,3.0,No
+84.0,154.0,Triana,Male,1981.0,Married,Student,5.0,Japanese,Socially,Often,5.0,4.0,4.5,No
+84.0,154.0,Triana,Male,1981.0,Married,Student,5.0,Japanese,Socially,Often,5.0,4.0,4.5,No
+85.0,153.0,Vegueta,Female,1978.0,Divorced,Student,4.0,Chinese,Often,Often,5.0,5.0,5.0,Yes
+86.0,107.0,Mesa y López,Male,1999.0,Single,Studying,4.0,Japanese,frequently,Often,4.0,1.0,2.5,Yes
+87.0,123.0,Tamaraceite,Male,1961.0,Married,professional,4.0,Filipino,Often,Socially,1.0,5.0,3.0,FALSE
+88.0,129.0,Vegueta,Female,2007.0,Single,Professional,5.0,French,frequently,frequently,5.0,5.0,5.0,TRUE
+89.0,122.0,Triana,female,2003.0,married,Professional,4.0,French,Often,frequently,5.0,,5.0,Yes
+90.0,123.0,Vegueta,Male,1988.0,Divorced,Working,3.0,Indian,Often,Often,5.0,5.0,5.0,Yes
+91.0,,Triana,Male,1960.0,Married,Professional,4.0,Indian,Socially,Socially,2.0,5.0,3.5,FALSE
+92.0,111.0,Mesa y López,male,1969.0,divorced,Working,3.0,French,Never,Often,3.0,1.0,2.0,No
+94.0,107.0,Vegueta,Female,1985.0,married,Student,5.0,Filipino,Often,Never,1.0,4.0,2.5,No
+95.0,111.0,Siete Palmas,boy,1974.0,Married,Studying,3.0,Indian,Often,,2.0,5.0,3.5,TRUE
+96.0,123.0,Vegueta,Female,1982.0,Single,Professional,4.0,French,never,Socially,1.0,2.0,1.5,No
+96.0,123.0,Vegueta,Female,1982.0,Single,Professional,4.0,French,never,Socially,1.0,2.0,1.5,No
+97.0,122.0,Siete Palmas,Female,2000.0,married,Student,4.0,Chinese,Never,Often,1.0,2.0,1.5,No
+98.0,123.0,Vegueta,female,2006.0,Single,Working,5.0,Sushi,never,Often,5.0,2.0,3.5,No
+99.0,123.0,Tamaraceite,Male,2002.0,Married,Student,3.0,Filipino,,socially,3.0,2.0,2.5,FALSE
+100.0,153.0,Vegueta,Male,2005.0,Married,,4.0,French,Never,Never,3.0,2.0,2.5,No
+101.0,117.0,Siete Palmas,Female,2006.0,Single,professional,3.0,Japanese,Never,socially,4.0,4.0,4.0,No
+101.0,117.0,Siete Palmas,Female,2006.0,Single,professional,3.0,Japanese,Never,socially,4.0,4.0,4.0,No
+102.0,192.0,Vegueta,Female,1991.0,Married,Student,4.0,Indian,never,Never,4.0,3.0,3.5,No
+103.0,137.0,Tamaraceite,boy,1977.0,single,Student,5.0,Seafood,Often,Often,4.0,2.0,3.0,Yes
+104.0,121.0,Triana,Female,1956.0,married,Professional,5.0,Sushi,Never,Socially,3.0,1.0,2.0,FALSE
+105.0,198.0,Siete Palmas,Male,1997.0,single,student,4.0,Filipino,Socially,Never,2.0,4.0,3.0,No
+106.0,172.0,Tamaraceite,Male,1995.0,Single,Student,5.0,Seafood,Never,frequently,4.0,3.0,3.5,FALSE
+107.0,188.0,Siete Palmas,Female,1977.0,Married,Professional,5.0,Indian,Never,Socially,5.0,4.0,4.5,No
+108.0,166.0,Siete Palmas,girl,2003.0,Single,Professional,3.0,Filipino,Often,frequently,4.0,2.0,3.0,Yes
+109.0,124.0,Mesa y López,male,1965.0,Single,Student,5.0,Italian,social,Often,5.0,3.0,4.0,No
+110.0,129.0,Siete Palmas,Male,1995.0,single,Student,4.0,Chinese,Often,Often,4.0,3.0,3.5,Yes
+111.0,131.0,Siete Palmas,Female,1975.0,Married,Professional,4.0,French,social,frequently,3.0,3.0,3.0,FALSE
+112.0,149.0,Triana,Male,1963.0,Married,Student,4.0,Chinese,never,socially,3.0,1.0,2.0,No
+113.0,101.0,Mesa y López,female,2006.0,Single,Professional,5.0,Chinese,Socially,Never,5.0,4.0,4.5,No
+114.0,104.0,Vegueta,Male,,Single,Studying,5.0,Italian,frequently,Socially,5.0,3.0,4.0,No
+115.0,,Vegueta,Male,1956.0,married,Student,3.0,Filipino,Often,Never,2.0,2.0,2.0,FALSE
+116.0,145.0,Triana,girl,1956.0,Married,Student,3.0,French,frequently,never,4.0,1.0,2.5,No
+117.0,159.0,Mesa y López,boy,2007.0,Single,Student,5.0,Seafood,Socially,never,3.0,1.0,2.0,FALSE
+118.0,195.0,Siete Palmas,Male,2004.0,Single,Student,3.0,Japanese,Often,Often,2.0,5.0,3.5,TRUE
+119.0,105.0,Siete Palmas,Male,2001.0,Single,Student,3.0,Filipino,social,,3.0,5.0,4.0,
+120.0,198.0,Mesa y López,Male,1959.0,Married,Student,4.0,Seafood,Often,Never,3.0,1.0,2.0,No
+121.0,130.0,Mesa y López,Female,2009.0,Single,Student,3.0,Indian,Socially,Often,5.0,3.0,4.0,No
+122.0,139.0,Triana,Female,1983.0,Married,Working,5.0,Italian,social,Never,1.0,4.0,2.5,No
+123.0,111.0,Triana,Female,1971.0,Married,professional,5.0,Chinese,Never,Often,4.0,2.0,3.0,No
+124.0,113.0,Tamaraceite,Male,1974.0,divorced,Professional,1.0,Seafood,social,Often,5.0,5.0,5.0,FALSE
+125.0,123.0,Vegueta,,1963.0,Single,Professional,3.0,Indian,Socially,Socially,3.0,5.0,4.0,No
+126.0,127.0,Tamaraceite,Male,1969.0,Single,Professional,3.0,Sushi,Never,Socially,4.0,3.0,3.5,No
+127.0,134.0,Vegueta,Female,2001.0,single,Student,3.0,Indian,Never,Socially,2.0,3.0,2.5,
+128.0,148.0,Mesa y López,,2000.0,Single,Student,5.0,Indian,never,never,,5.0,4.0,No
+129.0,154.0,Triana,Female,1977.0,married,student,4.0,French,Socially,never,2.0,1.0,1.5,FALSE
+130.0,158.0,Tamaraceite,girl,1988.0,Married,Student,5.0,Seafood,never,Socially,4.0,4.0,4.0,FALSE
+131.0,159.0,Triana,Female,1999.0,Married,Student,4.0,Chinese,Never,Socially,3.0,2.0,2.5,FALSE
+132.0,159.0,Triana,Male,1971.0,married,Student,1.0,Indian,Never,Often,4.0,2.0,3.0,No
+133.0,161.0,Siete Palmas,Male,1995.0,Single,Professional,3.0,Indian,frequently,Never,4.0,2.0,3.0,No
+134.0,167.0,Triana,Female,2009.0,Single,Professional,5.0,Indian,Socially,Socially,3.0,5.0,4.0,No
+135.0,172.0,Siete Palmas,Male,2001.0,Divorced,Studying,1.0,Japanese,Socially,Often,4.0,5.0,4.5,No
+136.0,176.0,,boy,1998.0,single,Working,5.0,Japanese,Never,socially,2.0,3.0,2.5,FALSE
+137.0,110.0,Siete Palmas,Male,2006.0,Single,Student,4.0,Japanese,frequently,Often,4.0,2.0,3.0,TRUE
+138.0,120.0,Siete Palmas,Female,1990.0,Single,student,5.0,French,Never,Never,3.0,2.0,2.5,FALSE
+139.0,131.0,Tamaraceite,male,1987.0,Married,Student,4.0,French,never,Never,2.0,3.0,2.5,No
+140.0,137.0,Vegueta,Male,1986.0,Single,Student,4.0,Filipino,never,Never,3.0,1.0,2.0,No
+140.0,137.0,Vegueta,Male,1986.0,Single,Student,4.0,Filipino,never,Never,3.0,1.0,2.0,No
+141.0,142.0,Vegueta,male,2001.0,Single,Student,2.0,Seafood,frequently,never,2.0,2.0,2.0,No
+142.0,162.0,Vegueta,Female,1967.0,Single,Student,5.0,Filipino,frequently,socially,5.0,5.0,5.0,FALSE
+143.0,173.0,Triana,Male,1985.0,married,Student,5.0,Japanese,Never,Never,3.0,1.0,2.0,No
+144.0,184.0,Vegueta,Male,2000.0,Single,Student,3.0,French,Never,Often,4.0,1.0,2.5,FALSE
+145.0,199.0,Mesa y López,female,1969.0,Married,Professional,3.0,Italian,Often,Never,4.0,1.0,2.5,No
+146.0,102.0,Siete Palmas,Male,1976.0,Married,Student,3.0,Chinese,Never,never,2.0,5.0,3.5,FALSE
+147.0,106.0,Vegueta,Male,1976.0,Single,Professional,3.0,French,Often,Socially,5.0,3.0,4.0,No
+148.0,113.0,,Female,1987.0,Married,Professional,3.0,Seafood,Never,Socially,1.0,5.0,3.0,FALSE
+149.0,142.0,Tamaraceite,Male,1998.0,Single,Student,3.0,Seafood,Never,Socially,1.0,2.0,1.5,FALSE
+150.0,157.0,Triana,Female,1974.0,Married,,5.0,Japanese,,socially,2.0,5.0,3.5,FALSE
+151.0,185.0,Triana,Female,2007.0,single,Student,4.0,Japanese,Often,frequently,5.0,5.0,5.0,Yes
+152.0,147.0,Tamaraceite,female,2005.0,Single,Student,3.0,Chinese,Often,socially,3.0,2.0,2.5,No
+153.0,183.0,Triana,Female,1974.0,single,Professional,4.0,Chinese,Never,frequently,3.0,5.0,4.0,No
+154.0,138.0,Mesa y López,Male,1989.0,single,professional,5.0,Filipino,Socially,Often,4.0,4.0,,FALSE
+155.0,136.0,Tamaraceite,girl,1958.0,single,Professional,5.0,Filipino,Socially,Socially,5.0,3.0,4.0,No
+156.0,169.0,Triana,girl,1991.0,Single,Professional,4.0,Filipino,Often,Socially,3.0,1.0,2.0,No
+157.0,176.0,Siete Palmas,Female,1981.0,Divorced,student,2.0,Italian,Socially,Often,5.0,5.0,5.0,FALSE
+158.0,196.0,Tamaraceite,Male,1962.0,married,Professional,3.0,Filipino,never,Never,3.0,4.0,3.5,No
+159.0,175.0,Tamaraceite,boy,1964.0,single,Student,5.0,Sushi,Never,Socially,4.0,2.0,3.0,No
+160.0,135.0,Vegueta,Male,1959.0,Married,professional,5.0,Italian,Socially,Socially,2.0,2.0,2.0,FALSE
+160.0,135.0,Vegueta,Male,1959.0,Married,professional,5.0,Italian,Socially,Socially,2.0,2.0,2.0,FALSE
+161.0,124.0,Siete Palmas,Female,2003.0,Single,student,4.0,Japanese,never,never,4.0,3.0,3.5,
+162.0,125.0,Tamaraceite,,1955.0,Divorced,Working,4.0,Sushi,never,Often,5.0,5.0,5.0,No
+164.0,186.0,Siete Palmas,girl,1989.0,Married,student,5.0,Italian,Never,Socially,1.0,1.0,1.0,FALSE
+165.0,176.0,Siete Palmas,Female,1996.0,Single,Student,4.0,Italian,Never,Never,5.0,5.0,,FALSE
+166.0,194.0,Mesa y López,Male,1975.0,married,Student,4.0,French,Socially,frequently,2.0,5.0,3.5,FALSE
+167.0,173.0,Triana,male,2009.0,Single,Student,3.0,Seafood,social,Never,3.0,3.0,3.0,No
+168.0,182.0,Vegueta,Male,2000.0,married,Professional,3.0,Indian,Never,Often,5.0,2.0,3.5,No
+169.0,196.0,Vegueta,boy,1961.0,Married,Studying,4.0,French,Never,Socially,3.0,3.0,3.0,FALSE
+170.0,197.0,Siete Palmas,Female,1998.0,Single,Student,1.0,Italian,Never,Often,2.0,5.0,3.5,FALSE
+171.0,176.0,Tamaraceite,boy,1957.0,married,Student,5.0,Japanese,Socially,Often,4.0,4.0,4.0,FALSE
+171.0,176.0,Tamaraceite,boy,1957.0,married,Student,5.0,Japanese,Socially,Often,4.0,4.0,4.0,FALSE
+172.0,169.0,Siete Palmas,boy,2006.0,Single,student,5.0,Filipino,Socially,never,1.0,2.0,1.5,FALSE
+173.0,184.0,,Male,1962.0,Married,Professional,4.0,Indian,Never,Never,1.0,1.0,1.0,FALSE
+174.0,192.0,Triana,Male,1994.0,Married,Student,3.0,Indian,Often,socially,1.0,5.0,3.0,FALSE
+174.0,192.0,Triana,Male,1994.0,Married,Student,3.0,Indian,Often,socially,1.0,5.0,3.0,FALSE
+175.0,135.0,Siete Palmas,boy,2002.0,Single,student,3.0,Filipino,Never,Never,3.0,4.0,3.5,No
+176.0,186.0,Tamaraceite,Male,1955.0,Married,Professional,3.0,Indian,Never,Socially,2.0,3.0,2.5,No
+177.0,175.0,Vegueta,Male,1974.0,single,Professional,3.0,Filipino,Socially,Never,2.0,5.0,3.5,FALSE
+178.0,179.0,Tamaraceite,male,1979.0,single,Student,5.0,Chinese,Socially,Never,5.0,1.0,3.0,No
+179.0,149.0,Vegueta,Male,,Married,Professional,3.0,Seafood,frequently,Often,5.0,,5.0,Yes
+180.0,139.0,Mesa y López,Female,1998.0,Single,Student,1.0,Filipino,Often,Socially,1.0,5.0,3.0,FALSE
+180.0,139.0,Mesa y López,Female,1998.0,Single,Student,1.0,Filipino,Often,Socially,1.0,5.0,3.0,FALSE
+181.0,163.0,Vegueta,Female,1974.0,Married,professional,4.0,French,Never,Socially,4.0,4.0,4.0,No
+182.0,162.0,Triana,Male,1964.0,Married,Professional,4.0,Chinese,frequently,socially,3.0,5.0,4.0,No
+183.0,162.0,Mesa y López,Male,1996.0,Married,Student,4.0,French,Often,Socially,2.0,4.0,3.0,No
+184.0,166.0,Triana,Male,1981.0,Married,student,5.0,Japanese,social,Often,,4.0,4.5,FALSE
+184.0,166.0,Triana,Male,1981.0,Married,student,5.0,Japanese,social,Often,,4.0,4.5,FALSE
+185.0,158.0,Vegueta,Female,1978.0,Divorced,student,4.0,Chinese,Often,frequently,5.0,5.0,5.0,TRUE
+186.0,136.0,Mesa y López,Male,,Single,Student,4.0,,frequently,Often,4.0,1.0,2.5,Yes
+187.0,186.0,Vegueta,Male,1961.0,Married,Professional,4.0,Filipino,Often,socially,1.0,5.0,3.0,No
+188.0,137.0,Siete Palmas,girl,2007.0,Single,Professional,5.0,French,Often,Often,5.0,,5.0,Yes
+189.0,154.0,Tamaraceite,girl,2003.0,Married,professional,4.0,French,Often,Often,5.0,5.0,5.0,TRUE
+190.0,167.0,Tamaraceite,male,1988.0,Divorced,Working,3.0,Indian,Often,Often,5.0,5.0,5.0,TRUE
+191.0,185.0,Triana,boy,1960.0,Married,Professional,4.0,Indian,social,,2.0,5.0,3.5,FALSE
+191.0,185.0,Triana,boy,1960.0,Married,Professional,4.0,Indian,social,,2.0,5.0,3.5,FALSE
+192.0,178.0,Siete Palmas,Male,1969.0,Divorced,Professional,3.0,French,Never,frequently,3.0,1.0,2.0,FALSE
+193.0,105.0,Mesa y López,Male,2000.0,Single,Professional,5.0,French,Never,frequently,5.0,5.0,5.0,FALSE
+194.0,103.0,Mesa y López,Female,1985.0,married,Student,5.0,Filipino,Often,,1.0,4.0,2.5,No
+195.0,107.0,,boy,1974.0,Married,Student,3.0,Indian,Often,Often,2.0,5.0,3.5,Yes
+196.0,175.0,Tamaraceite,Female,1982.0,Single,Professional,4.0,French,Never,Socially,1.0,2.0,1.5,No
+197.0,170.0,Siete Palmas,Female,2000.0,Married,student,4.0,Chinese,Never,Often,1.0,2.0,1.5,No
+198.0,160.0,Triana,girl,2006.0,Single,Professional,5.0,Japanese,never,Often,5.0,2.0,3.5,No
+198.0,160.0,Triana,girl,2006.0,Single,Professional,5.0,Japanese,never,Often,5.0,2.0,3.5,No
+199.0,130.0,Vegueta,Male,2002.0,Married,Student,3.0,Filipino,Never,Socially,3.0,2.0,2.5,No
+200.0,140.0,Siete Palmas,,2005.0,married,Student,4.0,French,never,Never,3.0,2.0,2.5,No
+1002.0,123.0,Siete Palmas,Female,1991.0,Married,Student,3.0,Indian,Never,Socially,1.0,1.0,1.0,No
+1012.0,123.0,Mesa y López,Male,1963.0,Married,Student,4.0,Chinese,Never,Socially,3.0,1.0,2.0,No
+1089.0,122.0,Triana,female,2003.0,married,Professional,4.0,French,Often,frequently,5.0,,5.0,Yes
+1091.0,,Triana,Male,1960.0,Married,Professional,4.0,Indian,Socially,Socially,2.0,5.0,3.5,FALSE
+1100.0,153.0,Vegueta,Male,2005.0,Married,,4.0,French,Never,Never,3.0,2.0,2.5,No
+1112.0,149.0,Triana,Male,1963.0,Married,Student,4.0,Chinese,never,socially,3.0,1.0,2.0,No
+1129.0,154.0,Triana,Female,1977.0,married,student,4.0,French,Socially,never,2.0,1.0,1.5,FALSE
+1176.0,186.0,Tamaraceite,Male,1955.0,Married,Professional,3.0,Indian,Never,Socially,2.0,3.0,2.5,No
+1178.0,179.0,Tamaraceite,male,1979.0,single,Student,5.0,Chinese,Socially,Never,5.0,1.0,3.0,No
+1188.0,137.0,Siete Palmas,girl,2007.0,Single,Professional,5.0,French,Often,Often,5.0,,5.0,Yes
+,153.0,Triana,Male,1987.0,Married,Student,4.0,French,Never,Never,2.0,3.0,2.5,No
+,123.0,Siete Palmas,Male,1986.0,Single,Student,4.0,Filipino,Never,Never,3.0,1.0,2.0,No
+,123.0,,Male,2000.0,Single,Professional,5.0,French,never,Often,5.0,5.0,5.0,No
+,158.0,Siete Palmas,Male,2002.0,Single,Studying,4.0,Japanese,Never,frequently,5.0,5.0,5.0,FALSE
