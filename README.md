@@ -17,4 +17,18 @@
 -  Revisión del dataset para identificar posibles valores duplicados, erroneos o ausentes.
 -  Detección de valores atípicos/outliners.
 -  Eliminación de filas duplicadas (n = 20).
--  Formateo de columnas (SEGUIR POR AQUÍ)
+-  Formateo de columnas.
+
+## Día 2 (Martes 25/03)
+
+### Data Cleaning
+-  Eliminar los IDs duplicados (n = 9).
+-  Eliminar columnas irrelevantes.
+-  Manejo de valores faltantes: eliminamos varias filas (relacionadas con dos variables) y el resto de valores los imputamos con la media, la mediana o la moda.
+-  Estandarización de datos: identificar y corregir los valores que no estaban correctamente registrados.
+-  Validación de formato.
+-  Documentar los cambios.
+
+### Analysis
+-  Análisis de los requerimientos del cliente.
+-  Iniciar elaboración de dashboard.
