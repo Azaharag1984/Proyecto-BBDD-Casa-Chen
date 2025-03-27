@@ -1,7 +1,4 @@
 # Proyecto-BBDD-Casa-Chen
-
-## Día 1 (Lunes 24/03)
-
 ### Planificacion y organizacion básica:
 -   Creacion del grupo de Discord para comunicación.
 -   Creación de carpeta de Google Drive para almacenar y/o compartir documentos en el grupo.
